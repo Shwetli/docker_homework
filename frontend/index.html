@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Chat Wall</title>
+  <style>
+    body { font-family: Arial; padding: 20px; }
+    input, button { padding: 10px; font-size: 16px; }
+    table { margin-top: 20px; width: 100%; border-collapse: collapse; }
+    th, td { border: 1px solid #ccc; padding: 8px; }
+  </style>
+</head>
+<body>
+  <h1>🔒 Chat Wall</h1>
+  <input id="msg" placeholder="Type message..." />
+  <button onclick="send()">Send</button>
+  <table>
+    <thead><tr><th>ID</th><th>Message</th></tr></thead>
+    <tbody id="messages"></tbody>
+  </table>
+  <script src="script.js"></script>
+</body>
+</html>
