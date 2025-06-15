@@ -26,8 +26,8 @@ docker compose up --build
 
 ## 🔗 Предаване
 
-- GitHub: https://github.com/Shwetli/docker_homework
 - Docker Hub:
-  - Backend: https://hub.docker.com/r/ТВОЕТО_ПОТРЕБИТЕЛСКО_ИМЕ/backend
-  - Frontend: https://hub.docker.com/r/ТВОЕТО_ПОТРЕБИТЕЛСКО_ИМЕ/frontend
+  - Backend: https://hub.docker.com/r/shwetli/backend
+  - Frontend: https://hub.docker.com/r/shwetli/frontend
+
 
