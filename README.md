@@ -23,3 +23,11 @@ docker compose up --build
 
 - Frontend: http://localhost:8080
 - Backend API: http://localhost:5000/api/messages
+
+## 🔗 Предаване
+
+- GitHub: https://github.com/Shwetli/docker_homework
+- Docker Hub:
+  - Backend: https://hub.docker.com/r/ТВОЕТО_ПОТРЕБИТЕЛСКО_ИМЕ/backend
+  - Frontend: https://hub.docker.com/r/ТВОЕТО_ПОТРЕБИТЕЛСКО_ИМЕ/frontend
+
